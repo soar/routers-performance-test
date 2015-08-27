@@ -1,6 +1,6 @@
 $(document).ready(function(){
   function wrapimage(modelsc, testdir, imageext) {
-    image = '/tests/' + modelsc + '/' + testdir + '/' + testdir + '_' + imageext + '.gif';
+    image = 'tests/' + modelsc + '/' + testdir + '/' + testdir + '_' + imageext + '.gif';
     return '<a class="thumbnail zoom" href="' + image + '"><img src="' + image + '" width="250px" /></a>';
   };
 
