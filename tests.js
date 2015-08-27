@@ -4,7 +4,7 @@ $(document).ready(function(){
     return '<a class="thumbnail zoom" href="' + image + '"><img src="' + image + '" width="250px" /></a>';
   };
 
-  $.getJSON('/tests.json', function(data) {
+  $.getJSON('tests.json', function(data) {
     var tests = [];
     $.each(data, function(key, value) {
       tests.push('<li><a href="#' + value.sc + '">' + value.name + '</a></li>');
@@ -20,7 +20,7 @@ $(document).ready(function(){
     rowReorder: true,
     order: [],
     scrollX: true,
-    ajax: '/routers.json',
+    ajax: 'routers.json',
     columns: [
       { data: 'name' },
       { data: 'description' },
