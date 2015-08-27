@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "sc": "asus--rt-ac66u",
+      "name": "Asus RT-AC66U",
+      "description": "",
+      "link": ""
+    },
+    {
+      "sc": "d-link--dir-300--rev.b7",
+      "name": "D-Link DIR-300 (rev. B7)",
+      "description": "",
+      "link": ""
+    },
+    {
+      "sc": "d-link--dir-300--rev.c1",
+      "name": "D-Link DIR-300 (rev. C1)",
+      "description": "",
+      "link": ""
+    },
+    {
+      "sc": "d-link--dir-615--rev.k1",
+      "name": "D-Link DIR-615 (rev. K1)",
+      "description": "",
+      "link": ""
+    },
+    {
+      "sc": "d-link--dir-651--rev.a2",
+      "name": "D-Link DIR-651 (rev. A2)",
+      "description": "",
+      "link": ""
+    },
+    {
+      "sc": "d-link--dsr-1000n",
+      "name": "D-Link DSR-1000N",
+      "description": "",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "sc": "lan-lc-64b-10t",
+    "name": "LAN test, Long-Connections, 64B frames, 10 threads",
+    "dir": "LAN-LC-64b-frames-10-threads"
+  },
+  {
+    "sc": "lan-lc-64b-100t",
+    "name": "LAN test, Long-Connections, 64B frames, 100 threads",
+    "dir": "LAN-LC-64b-frames-100-threads"
+  }
+]
