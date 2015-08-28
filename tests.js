@@ -4,13 +4,21 @@ $(document).ready(function(){
     return '<a class="thumbnail zoom" href="' + image + '"><img src="' + image + '" width="250px" /></a>';
   };
 
+  var testdata = {};
+
   $.getJSON('tests.json', function(data) {
     var tests = [];
     $.each(data, function(key, value) {
+      testdata[value.sc] = {};
+      testdata[value.sc].dir = value.dir;
+      testdata[value.sc].name = value.name;
       tests.push('<li><a href="#' + value.sc + '">' + value.name + '</a></li>');
     });
 
     $('#tests-menu').append(tests.join(''));
+    $('#tests-menu a').click(function () {
+      location.reload();
+    });
   });
 
   var table = $('#tests').DataTable({
@@ -33,15 +41,13 @@ $(document).ready(function(){
       { data: 'sc' },
       { data: 'sc' },
       { data: 'sc' },
-      { data: 'sc' },
       { data: 'sc' }
     ],
     columnDefs: [
       {
-        targets: [3, 4, 5, 6, 7, 8, 9, 10, 11],
+        targets: [3, 4, 5, 6, 7, 8, 9, 10],
         render: function(data, type, row, meta) {
           var images = [
-            'conn_established',
             'consec_lost',
             'lost_data',
             'max_consec_lost',
@@ -51,7 +57,13 @@ $(document).ready(function(){
             'video_df',
             'video_mlr'
           ];
-          return wrapimage(data, 'LAN-LC-64b-frames-10-threads', images[meta.col - 3]);
+          testname = location.hash.replace('#', '');
+          if (testname in testdata) {
+            testdir = testdata[testname].dir;
+            return wrapimage(data, testdir, images[meta.col - 3]);
+          } else {
+            return '';
+          }
         }
       }
     ],
