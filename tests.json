@@ -8,5 +8,119 @@
     "sc": "lan-lc-64b-100t",
     "name": "LAN test, Long-Connections, 64B frames, 100 threads",
     "dir": "LAN-LC-64b-frames-100-threads"
+  },
+  {
+    "sc": "lan-lc-64b-1000t",
+    "name": "LAN test, Long-Connections, 64B frames, 1000 threads",
+    "dir": "LAN-LC-64b-frames-1000-threads"
+  },
+  {
+    "sc": "lan-lc-64kb-10t",
+    "name": "LAN test, Long-Connections, 64KB frames, 10 threads",
+    "dir": "LAN-LC-64kb-frames-10-threads"
+  },
+  {
+    "sc": "lan-lc-64kb-100t",
+    "name": "LAN test, Long-Connections, 64KB frames, 100 threads",
+    "dir": "LAN-LC-64kb-frames-100-threads"
+  },
+  {
+    "sc": "lan-lc-64kb-1000t",
+    "name": "LAN test, Long-Connections, 64KB frames, 1000 threads",
+    "dir": "LAN-LC-64kb-frames-1000-threads"
+  },
+
+  {
+    "sc": "lan-sc-64b-10t",
+    "name": "LAN test, Short-Connections, 64B frames, 10 threads",
+    "dir": "LAN-SC-64b-frames-10-threads"
+  },
+  {
+    "sc": "lan-sc-64b-100t",
+    "name": "LAN test, Short-Connections, 64B frames, 100 threads",
+    "dir": "LAN-SC-64b-frames-100-threads"
+  },
+  {
+    "sc": "lan-sc-64b-1000t",
+    "name": "LAN test, Short-Connections, 64B frames, 1000 threads",
+    "dir": "LAN-SC-64b-frames-1000-threads"
+  },
+  {
+    "sc": "lan-sc-64kb-10t",
+    "name": "LAN test, Short-Connections, 64KB frames, 10 threads",
+    "dir": "LAN-SC-64kb-frames-10-threads"
+  },
+  {
+    "sc": "lan-sc-64kb-100t",
+    "name": "LAN test, Short-Connections, 64KB frames, 100 threads",
+    "dir": "LAN-SC-64kb-frames-100-threads"
+  },
+  {
+    "sc": "lan-sc-64kb-1000t",
+    "name": "LAN test, Short-Connections, 64KB frames, 1000 threads",
+    "dir": "LAN-SC-64kb-frames-1000-threads"
+  },
+
+
+  {
+    "sc": "wlan-lc-64b-10t",
+    "name": "WLAN test, Long-Connections, 64B frames, 10 threads",
+    "dir": "WLAN-LC-64b-frames-10-threads"
+  },
+  {
+    "sc": "wlan-lc-64b-100t",
+    "name": "WLAN test, Long-Connections, 64B frames, 100 threads",
+    "dir": "WLAN-LC-64b-frames-100-threads"
+  },
+  {
+    "sc": "wlan-lc-64b-1000t",
+    "name": "WLAN test, Long-Connections, 64B frames, 1000 threads",
+    "dir": "WLAN-LC-64b-frames-1000-threads"
+  },
+  {
+    "sc": "wlan-lc-64kb-10t",
+    "name": "WLAN test, Long-Connections, 64KB frames, 10 threads",
+    "dir": "WLAN-LC-64kb-frames-10-threads"
+  },
+  {
+    "sc": "wlan-lc-64kb-100t",
+    "name": "WLAN test, Long-Connections, 64KB frames, 100 threads",
+    "dir": "WLAN-LC-64kb-frames-100-threads"
+  },
+  {
+    "sc": "wlan-lc-64kb-1000t",
+    "name": "WLAN test, Long-Connections, 64KB frames, 1000 threads",
+    "dir": "WLAN-LC-64kb-frames-1000-threads"
+  },
+
+  {
+    "sc": "wlan-sc-64b-10t",
+    "name": "WLAN test, Short-Connections, 64B frames, 10 threads",
+    "dir": "WLAN-SC-64b-frames-10-threads"
+  },
+  {
+    "sc": "wlan-sc-64b-100t",
+    "name": "WLAN test, Short-Connections, 64B frames, 100 threads",
+    "dir": "WLAN-SC-64b-frames-100-threads"
+  },
+  {
+    "sc": "wlan-sc-64b-1000t",
+    "name": "WLAN test, Short-Connections, 64B frames, 1000 threads",
+    "dir": "WLAN-SC-64b-frames-1000-threads"
+  },
+  {
+    "sc": "wlan-sc-64kb-10t",
+    "name": "WLAN test, Short-Connections, 64KB frames, 10 threads",
+    "dir": "WLAN-SC-64kb-frames-10-threads"
+  },
+  {
+    "sc": "wlan-sc-64kb-100t",
+    "name": "WLAN test, Short-Connections, 64KB frames, 100 threads",
+    "dir": "WLAN-SC-64kb-frames-100-threads"
+  },
+  {
+    "sc": "wlan-sc-64kb-1000t",
+    "name": "WLAN test, Short-Connections, 64KB frames, 1000 threads",
+    "dir": "WLAN-SC-64kb-frames-1000-threads"
   }
 ]
