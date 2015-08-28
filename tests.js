@@ -76,4 +76,16 @@ $(document).ready(function(){
     delegate: 'a',
     type: 'image'
   });
+
+  $('#tests tbody').on('click', 'tr', function() {
+    $(this).toggleClass('selected');
+  });
+
+  $('#btn-tbl-show').click(function () {
+    table.rows(':not(.selected)').remove().draw(false);
+  });
+
+  $('#btn-tbl-hide').click(function () {
+    table.rows('.selected').remove().draw(false);
+  });
 });
