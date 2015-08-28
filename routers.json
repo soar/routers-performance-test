@@ -35,6 +35,78 @@
       "name": "D-Link DSR-1000N",
       "description": "",
       "link": ""
+    },
+    {
+      "sc": "huawei--ws329",
+      "name": "Huawei WS329"
+    },
+    {
+      "sc": "tp-link--archer-C7",
+      "name": "TP-Link Archer C7"
+    },
+    {
+      "sc": "tp-link--tl-wdr3500",
+      "name": "TP-Link TL-WDR3500"
+    },
+    {
+      "sc": "tp-link--tl-wdr3600-n600",
+      "name": "TP-Link TL-WDR3600 N600"
+    },
+    {
+      "sc": "tp-link--tl-wdr3600-n600--gb",
+      "name": "TP-Link TL-WDR3600 N600 (GB)"
+    },
+    {
+      "sc": "tp-link--tl-wdr4300-n750",
+      "name": "TP-Link TL-WDR4300 N750"
+    },
+    {
+      "sc": "tp-link--tl-wdr4300-n750--gb",
+      "name": "TP-Link TL-WDR4300 N750 (GB)"
+    },
+    {
+      "sc": "tp-link--tl-wr710n",
+      "name": "TP-Link TL-WR710N"
+    },
+    {
+      "sc": "tp-link--tl-wr741n--rev.1.4",
+      "name": "TP-Link TL-WR741N rev. 1.4"
+    },
+    {
+      "sc": "tp-link--tl-wr741nd--rev.4.20",
+      "name": "TP-Link TL-WR741ND rev. 4.20"
+    },
+    {
+      "sc": "tp-link--tl-wr840n",
+      "name": "TP-Link TL-WR840N"
+    },
+    {
+      "sc": "tp-link--tl-wr841n--rev.8.2",
+      "name": "TP-Link TL-WR841N rev. 8.2"
+    },
+    {
+      "sc": "tp-link--tl-wr841nd--rev.8.1",
+      "name": "TP-Link TL-WR841ND rev. 8.1"
+    },
+    {
+      "sc": "ubiquiti--airrouter",
+      "name": "Ubiquiti AirRouter"
+    },
+    {
+      "sc": "zyxel--keenetic--rev.a",
+      "name": "Zyxel Keenetic - rev. A"
+    },
+    {
+      "sc": "zyxel--keenetic-giga",
+      "name": "Zyxel Keenetic Giga"
+    },
+    {
+      "sc": "zyxel--keenetic-lite--rev.a",
+      "name": "Zyxel Keenetic Lite - rev. A"
+    },
+    {
+      "sc": "zyxel--keenetic-lite--rev.b",
+      "name": "Zyxel Keenetic Lite - rev. B"
     }
   ]
 }
