@@ -17,7 +17,8 @@ $(document).ready(function(){
 
     $('#tests-menu').append(tests.join(''));
     $('#tests-menu a').click(function () {
-      location.reload();
+      window.location.hash = $(this).attr('href');
+      window.location.reload(true);
     });
   });
 
