@@ -33,6 +33,7 @@ $(document).ready(function(){
     ajax: 'routers.json',
     columns: [
       { data: 'name' },
+      { data: 'chipset' },
 
       { data: 'sc' },
       { data: 'sc' },
@@ -45,7 +46,7 @@ $(document).ready(function(){
     ],
     columnDefs: [
       {
-        targets: [1, 2, 3, 4, 5, 6, 7, 8],
+        targets: [2, 3, 4, 5, 6, 7, 8, 9],
         render: function(data, type, row, meta) {
           var images = [
             'throughput',
@@ -60,7 +61,7 @@ $(document).ready(function(){
           testname = location.hash.replace('#', '');
           if (testname in testdata) {
             testdir = testdata[testname].dir;
-            return wrapimage(data, testdir, images[meta.col - 1]);
+            return wrapimage(data, testdir, images[meta.col - 2]);
           } else {
             return '';
           }
