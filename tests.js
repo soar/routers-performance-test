@@ -69,7 +69,7 @@ $(document).ready(function(){
       }
     ],
     buttons: [
-      'colvis', 'print', 'pdf', 'selectRows', 'selectColumns', 'selectCells'
+      'colvis'
     ],
   });
 
