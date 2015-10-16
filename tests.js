@@ -71,6 +71,11 @@ $(document).ready(function(){
     buttons: [
       'colvis'
     ],
+    initComplete: function(setting, json) {
+      $('#tests img').error(function() {
+       $(this).attr('src', 'notavailable.png');
+      });
+    }
   });
 
   $('#tests').magnificPopup({
