@@ -4,109 +4,251 @@
       "sc": "asus--rt-ac66u",
       "name": "Asus RT-AC66U",
       "description": "",
-      "link": ""
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "d-link--dir-300--rev.b7",
       "name": "D-Link DIR-300 (rev. B7)",
       "description": "",
-      "link": ""
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "d-link--dir-300--rev.c1",
       "name": "D-Link DIR-300 (rev. C1)",
       "description": "",
-      "link": ""
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "d-link--dir-615--rev.k1",
       "name": "D-Link DIR-615 (rev. K1)",
       "description": "",
-      "link": ""
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "d-link--dir-651--rev.a2",
       "name": "D-Link DIR-651 (rev. A2)",
       "description": "",
-      "link": ""
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "d-link--dsr-1000n",
       "name": "D-Link DSR-1000N",
       "description": "",
-      "link": ""
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "huawei--ws329",
-      "name": "Huawei WS329"
+      "name": "Huawei WS329",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--archer-C7",
-      "name": "TP-Link Archer C7"
+      "name": "TP-Link Archer C7",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wdr3500",
-      "name": "TP-Link TL-WDR3500"
+      "name": "TP-Link TL-WDR3500",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wdr3600-n600",
-      "name": "TP-Link TL-WDR3600 N600"
+      "name": "TP-Link TL-WDR3600 N600",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wdr3600-n600--gb",
-      "name": "TP-Link TL-WDR3600 N600 (GB)"
+      "name": "TP-Link TL-WDR3600 N600 (GB)",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wdr4300-n750",
-      "name": "TP-Link TL-WDR4300 N750"
+      "name": "TP-Link TL-WDR4300 N750",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wdr4300-n750--gb",
-      "name": "TP-Link TL-WDR4300 N750 (GB)"
+      "name": "TP-Link TL-WDR4300 N750 (GB)",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wr710n",
-      "name": "TP-Link TL-WR710N"
+      "name": "TP-Link TL-WR710N",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wr741n--rev.1.4",
-      "name": "TP-Link TL-WR741N rev. 1.4"
+      "name": "TP-Link TL-WR741N rev. 1.4",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wr741nd--rev.4.20",
-      "name": "TP-Link TL-WR741ND rev. 4.20"
+      "name": "TP-Link TL-WR741ND rev. 4.20",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "tp-link--tl-wr840n",
-      "name": "TP-Link TL-WR840N"
+      "name": "TP-Link TL-WR840N",
+      "description": "",
+      "link": "",
+      "chipset": "AR7241",
+      "ram": "32 MB",
+      "flash": "4 MB",
+      "comment": "Test was done in the early 2014 and maybe device was broken."
+    },
+    {
+      "sc": "tp-link--tl-wr840n--rev.1.0",
+      "name": "TP-Link TL-WR840N rev. 1.0",
+      "description": "",
+      "link": "",
+      "chipset": "AR7241",
+      "ram": "32 MB",
+      "flash": "4 MB",
+      "comment": "This is re-test for WR840N model, looks much better now."
     },
     {
       "sc": "tp-link--tl-wr841n--rev.8.2",
-      "name": "TP-Link TL-WR841N rev. 8.2"
+      "name": "TP-Link TL-WR841N rev. 8.2",
+      "description": "",
+      "link": "",
+      "chipset": "AR9341",
+      "ram": "32 MB",
+      "flash": "4 MB",
+      "comment": "One of the best 100-mbit model for multicast."
     },
     {
       "sc": "tp-link--tl-wr841nd--rev.8.1",
-      "name": "TP-Link TL-WR841ND rev. 8.1"
+      "name": "TP-Link TL-WR841ND rev. 8.1",
+      "description": "",
+      "link": "",
+      "chipset": "AR9341",
+      "ram": "32 MB",
+      "flash": "4 MB",
+      "comment": ""
     },
     {
       "sc": "ubiquiti--airrouter",
-      "name": "Ubiquiti AirRouter"
+      "name": "Ubiquiti AirRouter",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "zyxel--keenetic--rev.a",
-      "name": "Zyxel Keenetic - rev. A"
+      "name": "Zyxel Keenetic - rev. A",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "zyxel--keenetic-giga",
-      "name": "Zyxel Keenetic Giga"
+      "name": "Zyxel Keenetic Giga",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "zyxel--keenetic-lite--rev.a",
-      "name": "Zyxel Keenetic Lite - rev. A"
+      "name": "Zyxel Keenetic Lite - rev. A",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     },
     {
       "sc": "zyxel--keenetic-lite--rev.b",
-      "name": "Zyxel Keenetic Lite - rev. B"
+      "name": "Zyxel Keenetic Lite - rev. B",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
     }
   ]
 }
