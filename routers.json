@@ -5,9 +5,9 @@
       "name": "Asus RT-AC66U",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "BCM4706",
+      "ram": "256 MB",
+      "flash": "128 MB",
       "comment": ""
     },
     {
@@ -85,9 +85,9 @@
       "name": "TP-Link TL-WDR3500",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "AR9344",
+      "ram": "128 MB",
+      "flash": "8 MB",
       "comment": ""
     },
     {
@@ -95,9 +95,9 @@
       "name": "TP-Link TL-WDR3600 N600",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "AR9344",
+      "ram": "128 MB",
+      "flash": "8 MB",
       "comment": ""
     },
     {
@@ -105,9 +105,9 @@
       "name": "TP-Link TL-WDR3600 N600 (GB)",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "AR9344",
+      "ram": "128 MB",
+      "flash": "8 MB",
       "comment": ""
     },
     {
@@ -115,9 +115,9 @@
       "name": "TP-Link TL-WDR4300 N750",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "AR9344",
+      "ram": "128 MB",
+      "flash": "8 MB",
       "comment": ""
     },
     {
@@ -125,9 +125,9 @@
       "name": "TP-Link TL-WDR4300 N750 (GB)",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "AR9344",
+      "ram": "128 MB",
+      "flash": "8 MB",
       "comment": ""
     },
     {
@@ -145,9 +145,9 @@
       "name": "TP-Link TL-WR741N rev. 1.4",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "AR7240",
+      "ram": "32 MB",
+      "flash": "4 MB",
       "comment": ""
     },
     {
@@ -155,9 +155,9 @@
       "name": "TP-Link TL-WR741ND rev. 4.20",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "AR9331",
+      "ram": "32 MB",
+      "flash": "4 MB",
       "comment": ""
     },
     {
@@ -178,7 +178,7 @@
       "chipset": "AR7241",
       "ram": "32 MB",
       "flash": "4 MB",
-      "comment": "This is re-test for WR840N model, looks much better now."
+      "comment": "This is re-test - results are similar to previous."
     },
     {
       "sc": "tp-link--tl-wr841n--rev.8.2",
@@ -205,9 +205,9 @@
       "name": "Ubiquiti AirRouter",
       "description": "",
       "link": "",
-      "chipset": "",
-      "ram": "",
-      "flash": "",
+      "chipset": "AR7240",
+      "ram": "32 MB",
+      "flash": "8 MB",
       "comment": ""
     },
     {
