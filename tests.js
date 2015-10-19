@@ -20,6 +20,11 @@ $(document).ready(function(){
       window.location.hash = $(this).attr('href');
       window.location.reload(true);
     });
+
+    testname = location.hash.replace('#', '');
+    if (testname in testdata) {
+      $('#testname').text(testdata[testname].name);
+    };
   });
 
   var table = $('#tests').DataTable({
