@@ -70,6 +70,16 @@
       "flash": "",
       "comment": ""
     },
+	{
+      "sc": "tp-link--archer-c2--rev.1.0--gb",
+      "name": "TP-Link Archer C2 (rev.1.0) (GB)",
+      "description": "",
+      "link": "",
+      "chipset": "",
+      "ram": "",
+      "flash": "",
+      "comment": ""
+    },
     {
       "sc": "tp-link--archer-C7",
       "name": "TP-Link Archer C7",
