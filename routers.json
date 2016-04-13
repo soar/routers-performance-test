@@ -60,6 +60,16 @@
       "flash": "",
       "comment": ""
     },
+	{
+	  "sc": "eltex--wb-2",
+	  "name": "ELTEX WB-2",
+      "description": "",
+      "link": "",
+      "chipset": "Realtek RTL8881AB",
+      "ram": "",
+      "flash": "",
+      "comment": ""
+	},
     {
       "sc": "huawei--ws329",
       "name": "Huawei WS329",
